@@ -7,7 +7,7 @@
 🔧 Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/ваш-username/news-parser.git
+git clone https://github.com/VacPit/news-parser
 
 cd news-parser
 
